@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="second-app" default="ftp-upload" basedir=".">
+<project name="third-app" default="ftp-upload" basedir=".">
 
 	<property name ="buildNum" value = "default_1"/>
 	<property name ="currentBuildFldPath" value="../builds/${buildNum}"/>
