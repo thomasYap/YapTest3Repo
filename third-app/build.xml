@@ -5,7 +5,7 @@
 	<property name ="buildNum" value = "default_1"/>
 	<property name ="currentBuildFldPath" value="../builds/${buildNum}"/>
 	
-	<fileset dir="./second-app" id="srcfiles">
+	<fileset dir="./third-app" id="srcfiles">
 		<include name ="**/*"/>
 	</fileset>
    
